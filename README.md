@@ -28,5 +28,5 @@ chmod +x installvpn.sh
 <img src="http://www.beijinghuayu.com.cn/wp-content/uploads/2018/03/daloradius%E8%B4%A6%E6%88%B7%E9%85%8D%E7%BD%AE.png">
 
 3、It's has Client connection VPN tutorial page
-<img src="http://www.beijinghuayu.com.cn/down/vpn-connect-help.png">
+<img src="http://www.beijinghuayu.com.cn/images/vpn-connect-help.png">
 
