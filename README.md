@@ -12,15 +12,13 @@ Use daloradius to manage VPN client<br>
 
 # Begin to install on Centos7,use below commonds
 
+```bash
 sudo -i
-
 yum install wget -y
-
 wget https://raw.githubusercontent.com/zhuchunmao/vpnServer/master/vpnServer-install-script.sh
-
 chmod +x installvpn.sh
-
 ./installvpn.sh
+```
 
 
 
